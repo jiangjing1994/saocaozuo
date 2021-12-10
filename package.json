@@ -1,0 +1,13 @@
+{
+  "name": "@jiangjing94/saocaozuo",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+
+  },
+  "main": "lib/index.umd.min.js",
+  "files": [
+    "README.md",
+    "saocaozuo"
+  ]
+}
